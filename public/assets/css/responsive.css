@@ -1,0 +1,1159 @@
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1500px){
+
+  .header-src-btn::before {
+    display: none;
+   }
+
+   .search-box-btn.search-box-outer {
+    display: none;
+  }
+
+  .header-cart {
+    display: none;
+  }
+
+  .Mindfresh_menu>ul>li {
+    margin-right: 21px;
+}
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px){
+
+  .header-src-btn::before {
+    display: none;
+   }
+
+   .search-box-btn.search-box-outer {
+    display: none;
+  }
+
+  .header-cart {
+    display: none;
+  }
+
+  .header-content p {
+    font-size: 13px;
+  }
+  
+  .header-content span {
+    font-size: 13px;
+  }
+
+  .Mindfresh_menu>ul>li {
+    margin-right: 17px;
+  }
+
+  .about-sub-title p {
+    font-size: 12px;
+}
+
+.about-sub-title {
+  left: 235px;
+}
+
+.section-button a {
+  padding: 15px 25px;
+}
+
+.section-title h2 {
+  font-size: 40px;
+}
+
+.choose-thumb img {
+  height: 612px;
+}
+
+.choose-content p {
+  font-size: 16px;
+}
+
+.team-single-thumb::before {
+  left: 30px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  .header-box {
+    display: none;
+}
+
+.logo img {
+  width: 170px;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+}
+
+.search-box-btn.search-box-outer {
+  display: none;
+}
+
+.Mindfresh_menu>ul>li {
+  margin-right: 5px;
+}
+
+.Mindfresh_menu>ul>li>a {
+  font-size: 15px;
+  margin: 21px 2px 21px;
+}
+
+.header-cart {
+  display: none;
+}
+
+nav.Mindfresh_menu {
+  left: 10px;
+  text-align: right;
+}
+
+.Mindfresh_nav_manu {
+ padding: 0;
+}
+
+.section-button a {
+  padding: 15px 10px;
+}
+
+.header-src-btn::before {
+ display: none;
+}
+
+.header-button a {
+  font-size: 14px !important;
+  padding: 21px 19px !important;
+}
+
+/*============slide-section==================*/
+.slider-title h1 {
+  font-size: 50px;
+}
+
+.slider-title p {
+  font-size: 16px;
+}
+
+.home-title h1 {
+  font-size: 60px;
+}
+
+.home-title h2 {
+  font-size: 40px;
+}
+
+.hero-slide .owl-nav {
+  top: inherit;
+  bottom: 9rem;
+}
+
+.hero-slide .owl-next {
+  left: 85px;
+}
+/*============about-section==================*/
+.about-thumb img {
+  width: 100%;
+}
+
+.about-thumb::before {
+  top: 230px;
+}
+
+.about-sub-title {
+  top: -400px;
+  left: 187px;
+}
+
+.about-sub-title p {
+  font-size: 15px;
+  padding: 12px 42px;
+}
+
+.section-title h2 {
+  font-size: 33px;
+}
+
+.section-title p {
+  font-size: 14px;
+}
+
+.appoinment-scedule ul li {
+  font-size: 16px;
+}
+
+.abouts-thumb img {
+  width: 100%;
+}
+
+.about-appoinment h2::before {
+  display: none;
+}
+
+.about-appoinment h2::after {
+  display: none;
+}
+
+.appoinment-scedule ul li p::before {
+  display: none;
+}
+
+/*--------------service-section-------------------*/  
+.service-icon::before {
+  left: 40px;
+}
+
+.service-icon::after {
+  left: 128px;
+}
+
+.section-sub-title h3 a {
+  font-size: 19px;
+}
+
+.section-sub-title p {
+  font-size: 15px;
+}
+
+/*--------------choose-section-------------------*/  
+.choose-thumb img {
+  height: 603px;
+}
+
+.choose-content p {
+  font-size: 13px;
+}
+ 
+/*--------------team-section-------------------*/      
+.team-single-thumb::before {
+  left: 8px;
+}
+
+/*--------------blog-section-------------------*/   
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.section-sub-title h2 a {
+  font-size: 30px;
+}
+
+.rpost-content h5 a {
+  font-size: 14px;
+}
+
+.blog-content {
+  padding: 25px 23px 32px;
+}
+
+.blog-info h2 a {
+  font-size: 18px;
+}
+
+.blog-name a {
+  font-size: 15px;
+}
+
+/* Subcribe section */
+
+.single-subscribe-box {
+  padding: 65px 30px 20px;
+}
+.subscribe-title h2 {
+  font-size: 22px;
+}
+
+/*--------------breadcumn-section-------------------*/ 
+.breadcumb-title h1 {
+  font-size: 50px;
+}
+
+/*------------portfolio-section------------------*/
+
+.portfolio-content h3 {
+  font-size: 20px;
+}
+
+.pricing span {
+  font-size: 30px;
+}
+
+.pricing-box {
+  padding: 47px 26px 50px;
+}
+
+.featur ul li {
+  font-size: 15px;
+}
+
+.featur ul li span {
+  margin-right: 12px;
+}
+
+.pricing-plan-section .section-button a {
+  padding: 15px 25px;
+  font-size: 15px;
+}
+
+/*------------testimonial-section------------------*/
+.testimonial-section .owl-next {
+  left: 900px;
+}
+
+.testimonial-content h2 {
+  font-size: 18px;
+}
+
+.cart-button {
+  left: 30px;
+  width: 72%;
+}
+
+/*------------portfolio-section------------------*/
+.sec-widget-element ul li {
+  font-size: 13px;
+}
+
+.style-btn {
+  top: -295px;
+  left: 430px;
+}
+
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .sticky {
+    position: absolute !important;
+}
+
+  .header-box {
+    display: none;
+}
+
+.Mindfresh_nav_manu {
+  display: none;
+}
+
+.header-menu-area {
+  display: none;
+}
+
+div#sticky-header {
+  display: none;
+}
+
+/*-----------------hero-section----------------*/    
+.slider-title h1 {
+  font-size: 40px;
+}
+
+.slider-title p {
+  font-size: 16px;
+}
+
+.home-title h1 {
+  font-size: 50px;
+}
+
+.home-title h2 {
+  font-size: 40px;
+}
+
+.hero-slide .owl-prev {
+  bottom: -16rem;
+}
+
+.hero-slide .owl-next {
+  left: 87px;
+  bottom: -16rem;
+}
+
+
+/*============about-section==================*/
+.about-thumb img {
+  width: 100%;
+}
+
+.about-thumb::before {
+  display: none;
+}
+
+.about-sub-title {
+  display: none;
+}
+
+.section-title h2 {
+  font-size: 30px;
+}
+
+.about-appoinment h2::before {
+  display: none;
+}
+
+.about-appoinment h2::after {
+  display: none;
+}
+
+.appoinment-scedule ul li p::before {
+  display: none;
+}
+
+.abouts-thumb img {
+  width: 100%;
+}
+ 
+/*--------------testimonial-section-------------------*/      
+.testimonial-disc p {
+  font-size: 15px;
+}
+
+.brand-section {
+  padding: 0;
+  margin: 20px;
+ }
+
+.testimonial-section .owl-next {
+  left: 660px;
+}
+
+.cart-button {
+  left: 30px;
+  width: 82%;
+}
+
+/*--------------subscribe-section-------------------*/ 
+.Subscribe {
+  margin-top: 0px;
+}
+
+/*---------portfolio-section-------------*/
+.portfolio-icon span {
+  top: 500px;
+  left: 325px;
+}
+
+.style-btn {
+  top: -345px;
+  left: 530px;
+}
+
+.counter-up {
+  text-align: left;
+  padding-top: 10px;
+}
+
+.accordion li {
+  padding: 5px 0px 10px;
+}
+
+.accordion li a {
+  font-size: 17px;
+}
+
+/*--------------breadcumn-section-------------------*/ 
+.breadcumb-title h1 {
+  font-size: 40px;
+}
+
+/*--------------blog-section-------------------*/ 
+.section-sub-title h2 a {
+  font-size: 30px;
+}
+
+.wp-block-quote p {
+  font-size: 16px;
+}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+  .sticky {
+    position: absolute !important;
+}
+
+  .header-box {
+    display: none;
+}
+
+.Mindfresh_nav_manu {
+  display: none;
+}
+
+.header-menu-area {
+  display: none;
+}
+
+div#sticky-header {
+  display: none;
+}
+
+/*--------------slide-section-------------*/ 
+.slider-title h1 {
+  font-size: 35px;
+}
+
+.slider-title p {
+  font-size: 15px;
+  width: 100%;
+}
+
+.section-button a {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+
+.home-title h1 {
+  font-size: 50px;
+}
+
+.home-title h2 {
+  font-size: 40px;
+}
+
+.hero-slide .owl-prev {
+  bottom: -16rem;
+}
+
+.hero-slide .owl-next {
+  left: 87px;
+  bottom: -16rem;
+}
+
+/*--------------about-section-------------*/  
+.about-thumb img {
+  width: 100%;
+}
+
+.about-thumb::before {
+  display: none;
+}
+
+.about-sub-title {
+  display: none;
+}
+
+.section-title h2 {
+  font-size: 28px;
+}
+
+.about-appoinment h2::before {
+  display: none;
+}
+
+.about-appoinment h2::after {
+  display: none;
+}
+
+.appoinment-scedule ul li p::before {
+  display: none;
+}
+
+.abouts-thumb img {
+  width: 100%;
+}
+
+.choose-content p {
+  font-size: 16px;
+}
+
+/*--------------portfolio-section-------------------*/  
+.portfolio-icon span {
+  top: 350px;
+  left: 230px;
+}
+
+.style-btn {
+  top: -240px;
+  left: 350px;
+}
+
+.counter-up {
+  text-align: left;
+  padding-top: 10px;
+}
+
+/*-------------testimonial-section-------------*/
+.testimonial-disc p {
+  font-size: 16px;
+}
+
+.accordion li a {
+  font-size: 15px;
+}
+
+.accordion li {
+  padding: 5px 0px 10px;
+}
+
+.pricing span {
+  font-size: 30px;
+}
+
+.brand-section {
+  padding: 0;
+  margin: 20px;
+ }
+
+ .brand.owl-carousel {
+  padding: 30px 0 25px;
+}
+
+ .testimonial-section .owl-next {
+  left: 490px;
+}
+
+.cart-button {
+  width: 88%;
+}
+
+/*--------------subscribe-section-------------*/    
+.Subscribe {
+  margin-top: 0px;
+}
+
+/*--------------breadcumn-section-------------------*/ 
+.breadcumb-title h1 {
+  font-size: 30px;
+}
+
+/*--------------blog-section-------------------*/ 
+.section-sub-title h2 a {
+  font-size: 23px;
+}
+
+.wp-block-quote p {
+  font-size: 15px;
+}
+
+/*=========footer-section=============*/
+.footer-social-icon {
+  display: none;
+}
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+  .sticky {
+    position: absolute !important;
+}
+  .header-box {
+    display: none;
+}
+
+.Mindfresh_nav_manu {
+  display: none;
+}
+
+.header-menu-area {
+  display: none;
+}
+
+div#sticky-header {
+  display: none;
+}
+
+
+/*--------------Slider-section-------------*/
+
+.slider-title h1 {
+  font-size: 30px;
+}
+
+.slider-title p {
+  font-size: 15px;
+  width: 74%;
+}
+
+.home-title p {
+  width: 100%;
+}
+
+.section-button a {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+
+.hero-slide .owl-prev {
+  bottom: -16rem;
+}
+
+.hero-slide .owl-next {
+  left: 87px;
+  bottom: -16rem;
+}
+
+/*--------------about-section-------------*/    
+.about-thumb img {
+  width: 100%;
+}
+
+.about-thumb::before {
+  display: none;
+}
+
+.about-sub-title {
+  display: none;
+}
+
+.section-title h2 {
+  font-size: 25px;
+}
+
+.section-title h5 {
+  font-size: 14px;
+}
+
+.about-appoinment h2::before {
+  display: none;
+}
+
+.about-appoinment h2::after {
+  display: none;
+}
+
+.appoinment-scedule ul li p::before {
+  display: none;
+}
+
+.appoinment-scedule ul li {
+  font-size: 18px;
+}
+
+.appoinment-single-box {
+  margin: 0px 0px 25px 15px;
+}
+
+.abouts-thumb img {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.home-title h1 {
+  font-size: 40px;
+}
+
+.home-title h2 {
+  font-size: 30px;
+}
+
+/*--------------service-section-------------------*/  
+
+  .section-sub-title h3 a {
+    font-size: 20px;
+}
+
+/*--------------team-section-------------------*/   
+.choose-content p {
+  font-size: 16px;
+}
+
+.team-sub-title h3 a {
+  font-size: 16px;
+}
+
+.team-details-content-text ul li p {
+  font-size: 14px;
+}
+
+/*-------------testimonial-section-------------*/
+.testimonial-disc p {
+  font-size: 15px;
+}
+
+.testimonial-content h4 {
+  font-size: 18px;
+}
+
+.testimonial-section .owl-next {
+  left: 420px;
+}
+
+.brand-section {
+  padding: 0;
+  margin: 20px;
+ }
+
+ .brand.owl-carousel {
+  padding: 30px 0 25px;
+}
+
+ .pricing span {
+  font-size: 30px;
+}
+
+.counter-up {
+  text-align: left;
+  padding-top: 10px;
+}
+
+.cart-button {
+  width: 87%;
+}
+
+/*--------------blog-section-------------*/   
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.Subscribe {
+  margin-top: 0px;
+}
+
+.accordion li a {
+  font-size: 16px;
+}
+
+.accordion li {
+  padding: 5px 0 10px;
+}
+
+.counter-two-title h1 {
+  font-size: 30px;
+}
+
+.section-sub-title h2 a {
+  font-size: 20px;
+}
+
+.rpost-content h5 a {
+  font-size: 16px;
+}
+
+.section-disc p {
+  font-size: 15px;
+}
+
+.style-btn {
+  display: none;
+}
+
+.wp-block-quote p {
+  font-size: 15px;
+}
+
+/*--------------breadcumn-section-------------------*/ 
+.breadcumb-title h1 {
+  font-size: 25px;
+}
+
+/*--------------footer-section-------------*/
+.footer-social-icon {
+  display: none;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+  .sticky {
+    position: absolute !important;
+}
+
+  .header-box {
+    display: none;
+}
+
+.Mindfresh_nav_manu {
+  display: none;
+}
+
+.header-menu-area {
+  display: none;
+}
+
+div#sticky-header {
+  display: none;
+}
+
+/*--------------breadcumn-section-------------------*/ 
+.breadcumb-title h1 {
+  font-size: 25px;
+}
+
+/*===========slide-section==========*/
+.slider-title h1 {
+  font-size: 27px;
+}
+
+.home-title p {
+  width: 100%;
+}
+
+.section-button a {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+
+.home-title h1 {
+  font-size: 30px;
+}
+
+.home-title h2 {
+  font-size: 25px;
+}
+
+.slider-title p {
+  width: 100%;
+  font-size: 16px;
+}
+
+.button a {
+  margin-left: 6px;
+}
+
+/*===========about-section==========*/
+.about-thumb img {
+  width: 100%;
+}
+
+.about-thumb::before {
+  display: none;
+}
+
+.about-sub-title {
+  display: none;
+}
+
+.section-title h5 {
+  font-size: 14px;
+}
+
+.section-title h2 {
+  font-size: 23px;
+}
+
+.section-title p {
+  font-size: 14px;
+}
+
+.social-icon {
+  display: none;
+}
+
+.appoinment-single-box {
+  padding: 40px 20px 26px 20px;
+  margin: 0px 0px 30px 15px;
+}
+
+.about-appoinment h2::before {
+  display: none;
+}
+
+.about-appoinment h2::after {
+  display: none;
+}
+
+.appoinment-scedule ul li p::before {
+  display: none;
+}
+
+.about-appoinment h2 {
+  font-size: 20px;
+}
+
+.appoinment-scedule ul li {
+  font-size: 16px;
+}
+
+.abouts-thumb img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.home-play-button {
+  display: none;
+}
+
+.form-button button {
+  padding: 13px 30px;
+  font-size: 14px;
+}
+
+.choose-single-box {
+  padding: 21px 10px 40px 36px;
+}
+
+.choose-content p {
+  margin: 15px 0 0;
+}
+
+.choose-button a {
+  margin-top: 32px;
+}
+
+
+/*--------------team-section-------------------*/    
+
+.section-sub-title h3 a {
+  font-size: 22px;
+}
+
+.team-sub-title h3 a {
+  font-size: 18px;
+}
+
+.sec-widget-element ul li {
+  font-size: 12px;
+}
+
+/*--------------testimonial-section-------------*/  
+.testimonial-disc p {
+  font-size: 15px;
+}
+
+.testimonial-content h4 {
+  font-size: 17px;
+}
+
+.testimonial-content span {
+  font-size: 15px;
+}
+
+.testimonials-thumb::after {
+ display: none;
+}
+
+.testimonials-rating {
+  display: none;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.pricing span {
+  font-size: 25px;
+}
+
+.counter-up {
+  text-align: left;
+  padding-top: 10px;
+}
+
+.featur ul li {
+  font-size: 13px;
+}
+
+.brand-section {
+ padding: 0;
+ margin: 20px;
+}
+
+/*---------------subscribe-section--------------*/
+.Subscribe {
+  margin-top: 0px;
+}
+
+.section-title h3 {
+  font-size: 25px;
+}
+
+.contact span {
+  font-size: 16px;
+}
+
+.accordion li a {
+  font-size: 16px;
+}
+
+.accordion li {
+  padding: 5px 0px 10px;
+}
+
+.counter-two-title h1 {
+  font-size: 30px;
+}
+
+.choose-content p {
+  font-size: 16px;
+}
+
+.single-subscribe-box {
+  padding: 65px 24px 20px;
+}
+
+/*===========blog-details============*/
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.blog-content {
+  padding: 25px 20px 32px;
+}
+
+.section-sub-title h2 a {
+  font-size: 20px;
+}
+
+.section-disc p {
+  font-size: 15px;
+}
+
+.rpost-content h5 a {
+  font-size: 14px;
+}
+
+.blog-name a {
+  font-size: 15px;
+}
+
+span.rcomment {
+  font-size: 13px;
+}
+
+.section-disc p {
+  font-size: 14px;
+}
+
+.style-btn {
+  display: none;
+}
+
+.wp-block-quote p {
+  padding: 0;
+  font-size: 14px;
+}
+
+/*---------------footer-section--------------*/
+.footer-social-icon {
+  display: none;
+}
+
+.widget-title {
+  font-size: 22px;
+}
+
+.footer-bottom-content p {
+  font-size: 15px;
+  text-align: center;
+}
+
+/*---------portfolio-details-------------*/
+.portfolio-content h3 {
+  font-size: 20px;
+}
+
+.brand.owl-carousel {
+  padding: 30px 0 25px;
+}
+
+.pricing-box {
+  padding: 47px 26px 50px;
+}
+
+}
+
